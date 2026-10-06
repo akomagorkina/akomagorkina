@@ -34,15 +34,6 @@ iOS engineer building with SwiftUI for iPhone and Apple Watch since 2019. I care
 
 ---
 
-<!-- NOW: update this section as things happen. Keep it to 2-4 bullets. -->
-
-### 📍 Now
-
-- 🚢 Building in public for **#Shipaton2026** — progress updates here and on [aleksandra.tech](https://aleksandra.tech)
-- 🗓 Hosting **[Shipaton: Victoria Edition](https://luma.com/zx2k61nq)** — a meetup for developers, designers, and builders in downtown Victoria, BC. If you happen to visit Vancouver Island on August 8th, come say hi!
-
----
-
 ### 📱 My apps
 
 <a href="https://aleksandra.tech/apps/tippies/"><picture>
