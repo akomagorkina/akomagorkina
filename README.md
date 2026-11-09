@@ -67,8 +67,8 @@ Drink tracker with a live alcohol estimate and insights from sleep, heart rate, 
 <br clear="left">
 
 <a href="https://aleksandra.tech/apps/aran/"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akomagorkina/akomagorkina/main/assets/aran-icon-dark.png">
-  <img src="assets/aran-icon.png" width="56" align="left" alt="Aran" hspace="16">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akomagorkina/akomagorkina/main/assets/aran-app-icon-dark.png">
+  <img src="assets/aran-app-icon.png" width="56" align="left" alt="Aran" hspace="16">
 </picture></a>
 
 [**Aran**](https://aleksandra.tech/apps/aran/)<br>
