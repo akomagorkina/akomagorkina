@@ -62,7 +62,7 @@ Driving journal — trip capture, garage tracking, and insights.
 </picture></a>
 
 [**Moderate**](https://aleksandra.tech/apps/moderate/)<br>
-Drink tracking with a live estimate of the alcohol in your system, plus analytics across sleep, heart rate, mood and symptoms.
+Drink tracker with a live alcohol estimate and insights from sleep, heart rate, mood and symptoms.
 
 <br clear="left">
 
