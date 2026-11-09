@@ -62,7 +62,7 @@ Driving journal — trip capture, garage tracking, and insights.
 </picture></a>
 
 [**Moderate**](https://aleksandra.tech/apps/moderate/)<br>
-Drink tracking with BAC estimates, analytics, and health context.
+Drink tracking with a live estimate of the alcohol in your system, plus analytics across sleep, heart rate, mood and symptoms.
 
 <br clear="left">
 
@@ -72,7 +72,7 @@ Drink tracking with BAC estimates, analytics, and health context.
 </picture></a>
 
 [**Aran**](https://aleksandra.tech/apps/aran/)<br>
-Bread-baking planner — recipes, cultures, timelines, and bake notes.
+Bread-baking planner that turns recipes, starter readiness, dough temperature and timing into a bake schedule.
 
 <br clear="left">
 
